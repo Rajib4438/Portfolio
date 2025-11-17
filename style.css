@@ -67,3 +67,10 @@
       }
     }
   
+
+    .stats{
+      background-color: lightpink;
+      padding: 20px 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
